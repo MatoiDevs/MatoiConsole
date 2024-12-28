@@ -190,9 +190,9 @@ def main(user, password, tor):
     if command == "help":
         print("")
         print(f"{Fore.LIGHTMAGENTA_EX}attack{Fore.RESET}     - Stress test command          - {Fore.WHITE}D{Fore.RESET}")
+        print(f"{Fore.LIGHTMAGENTA_EX}methods{Fore.RESET}    - Shows methods for network    - {Fore.WHITE}D{Fore.RESET}")
         print(f"{Fore.LIGHTMAGENTA_EX}tor{Fore.RESET}        - tor connection (on/off)      - {Fore.WHITE}D{Fore.RESET}")
         print(f"{Fore.LIGHTMAGENTA_EX}testtor{Fore.RESET}    - test tor connection          - {Fore.WHITE}D{Fore.RESET}")
-        print(f"{Fore.LIGHTMAGENTA_EX}minecraft{Fore.RESET}  - Resolve minecraft domain     - {Fore.WHITE}D{Fore.RESET}")
         print(f"{Fore.LIGHTMAGENTA_EX}fivem{Fore.RESET}      - cfx resolve                  - {Fore.WHITE}D{Fore.RESET}")
         print(f"{Fore.LIGHTMAGENTA_EX}plans{Fore.RESET}      - List of Plans                - {Fore.WHITE}D{Fore.RESET}")
         print(f"{Fore.LIGHTMAGENTA_EX}addon{Fore.RESET}      - addons function              - {Fore.WHITE}D{Fore.RESET}")
