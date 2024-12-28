@@ -32,11 +32,11 @@ If you prefer manual installation, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/drindez/matoi.git
+   git clone https://github.com/MatoiDevs/MatoiConsole.git
    ```
 2. Navigate into the directory:
    ```bash
-   cd matoi
+   cd MatoiConsole
    ```
 3. Install the required packages:
    ```bash
