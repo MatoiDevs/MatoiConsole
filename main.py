@@ -30,7 +30,7 @@ COLOR_MAPPING = {
 
 init(autoreset=True)
 
-version_url = "https://raw.githubusercontent.com/MatoiDevs/MatoinConsole/refs/heads/main/version"
+version_url = "https://raw.githubusercontent.com/MatoiDevs/MatoiConsole/refs/heads/main/version"
 local_version = "2.0"
 
 
