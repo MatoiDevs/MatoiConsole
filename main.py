@@ -31,7 +31,7 @@ COLOR_MAPPING = {
 init(autoreset=True)
 
 version_url = "https://raw.githubusercontent.com/MatoiDevs/MatoiConsole/refs/heads/main/version"
-local_version = "2.0"
+local_version = "2.1"
 
 
 def replace_color_placeholders(text):
