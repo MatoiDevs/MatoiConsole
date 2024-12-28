@@ -13,7 +13,7 @@ messages:
   login: "Welcome! Please login to your account, after this you will be logged autmaticaly!"
   login-sucess: "Login successful!"
   login-invalid: "Invalid user or incorrect credentials."
-  attack-invalid: "{red}! Invalid command format. Expected: attack <host> <port> <time> <method>{reset}"
+  attack-invalid: "{red}! Invalid command format. Expected: attack <host> <port> <time> <network> <method>{reset}"
   attack-sent: "{lightgreen}Attack request sent successfully to the server!{reset}"
   attack-cooldown: "{lightred}Global cooldown or the host has been limited, please wait!{reset}"
   attack-fail: "{lightred}Failed to send the attack request.{reset}"
