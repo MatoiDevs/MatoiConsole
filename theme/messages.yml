@@ -1,0 +1,31 @@
+# Made by matoi team
+#
+# colors: red, lightred, yellow, magenta, lightmagenta, green, lightgreen
+#
+
+
+messages:
+  welcome: "                {white}Type `{lightmagenta}help{white}` to display available commands."
+  exit: "{red}Thank you for using the application. Goodbye!"
+  error: "{yellow}An unexpected error occurred."
+  invalid-creds: "Invalid credentials in login.txt. Please remove file login.txt."
+  saved-creds: "Using saved credentials for login."
+  login: "Welcome! Please login to your account, after this you will be logged autmaticaly!"
+  login-sucess: "Login successful!"
+  login-invalid: "Invalid user or incorrect credentials."
+  attack-invalid: "{red}! Invalid command format. Expected: attack <host> <port> <time> <method>{reset}"
+  attack-sent: "{lightgreen}Attack request sent successfully to the server!{reset}"
+  attack-cooldown: "{lightred}Global cooldown or the host has been limited, please wait!{reset}"
+  attack-fail: "{lightred}Failed to send the attack request.{reset}"
+  fivem-invalid: "{lightred}! Invalid command format. Expected: fivem <cfx link> {reset}"
+  tor-invalid: "{lightred}! Invalid command format. Expected: tor <on/off> {reset}"
+  tor-connect: "{green}Tor has been succesfuly started and connected to! {reset}"
+  tor-disconnect: "{lightred}Tor has been stopped and disconnected from! {reset}"
+  test-invalid: "{lightred}! Invalid command format. Expected: test <connection type> {reset}"
+  tor-working: "[TEST-LOG] {green}TOR IS WORKING! {reset}"
+  tor-notworking: "[TEST-LOG] {red}TOR IS NOT WORKING! {reset}"
+  connections: "{lightred}! Unknow connection, List of connections: tor {reset}"
+  UserCreate-invalid: "{lightred}! Invalid command format. Expected: UserCreate <username> <password> <concurrents> <maxTime> <admin> <allowedServers> {reset}"
+  UserDelete-invalid: "{lightred}! Invalid command format. Expected: Userdelete <username> {reset}"
+  UserEdit-invalid: "{lightred}! Invalid command format. Expected: UserEdit <username> <concurrents> <maxTime> <admin> <allowedServers> {reset}"
+  unkcmd: "Unknow command"

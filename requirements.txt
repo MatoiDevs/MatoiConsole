@@ -1,0 +1,6 @@
+colorama
+pystyle
+importlib
+threading
+os
+pwinput
