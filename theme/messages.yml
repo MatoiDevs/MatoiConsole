@@ -28,4 +28,5 @@ messages:
   UserCreate-invalid: "{lightred}! Invalid command format. Expected: UserCreate <username> <password> <concurrents> <maxTime> <admin> <allowedServers> {reset}"
   UserDelete-invalid: "{lightred}! Invalid command format. Expected: Userdelete <username> {reset}"
   UserEdit-invalid: "{lightred}! Invalid command format. Expected: UserEdit <username> <concurrents> <maxTime> <admin> <allowedServers> {reset}"
+  fivem-invalid: "{lightred}! Invalid command format. Expected: fivem <cfx> {reset}"
   unkcmd: "Unknow command"
